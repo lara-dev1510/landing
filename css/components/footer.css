@@ -1,0 +1,17 @@
+.footer {
+  background: #2C2B2B;
+  height: 215px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer a {
+  font-size: 2em;
+  color: #1ED382;
+}
+
+.list-inline li {
+  display: inline-block;
+  padding: 0px 10px;
+}
